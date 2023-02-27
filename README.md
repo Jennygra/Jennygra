@@ -14,4 +14,4 @@ Welcome to my page! I am a 🧑🏻‍💻 Front-End Developer located in Norway
 
 ## Things I code with
 
-[![My Skills](https://skillicons.dev/icons?i=html,html5,css,sass,js,ts,react,prettier)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,prettier)](https://skillicons.dev)
