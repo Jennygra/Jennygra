@@ -5,6 +5,7 @@
 <a href="https://comforting-parfait-fe7cbf.netlify.app/index.html">Portfolio</a> •
 <a href="https://www.linkedin.com/in/jenny-gramdal-6b904420a">Linkedin</a> •
 <a href="https://twitter.com/jennyjen_gra">Twitter</a> •
+<a href="https://discord.com/users/Jen✿#1303">Discord</a> •
 <a href="https://www.instagram.com/__jenny.jen___/">Instagram</a>
 
 - 🔭 I’m currently working on my portfolio and looking for new adventure
@@ -13,4 +14,4 @@
 
 ## Things I code with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,babel,bootstrap,figma,github,jest,netlify,ps,postman,stackoverflow,vscode,webpack,wordpress,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,babel,bootstrap,figma,github,jest,netlify,ps,postman,stackoverflow,vscode,webpack,wordpress,xd,codepen,discord,ai,regex,styledcomponents)](https://skillicons.dev)
