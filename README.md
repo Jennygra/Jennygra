@@ -15,7 +15,6 @@
 ## Things I code with
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,babel,bootstrap,figma,github,jest,netlify,ps,postman,stackoverflow,vscode,webpack,wordpress,xd,codepen,discord,ai,regex,styledcomponents)](https://skillicons.dev)
-<br/>
 
 ## Project I have been working on lately
 
