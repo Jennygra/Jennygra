@@ -1,6 +1,6 @@
 # Hello world, I'm Jenny 👋
 
-Welcome to my page! I am a 🧑🏻‍💻 Front-End Developer located in Norway 🇳🇴 Well organised person • Problem solver • High attention to details ⛰️ Love outdoor activities 📺 TV series 👾 Moba games 🧳 Travel 📷 Photography 😋 A foodie 🐈 Cat lover
+🧑🏻‍💻 I am a Front-End Developer located in Norway 🇳🇴 Well organised person • Problem solver • High attention to details ⛰️ Love outdoor activities 📺 TV series 👾 Moba games 🧳 Travel 📷 Photography 😋 A foodie 🐈 Cat lover
 
 <a href="https://comforting-parfait-fe7cbf.netlify.app/index.html">Portfolio</a> •
 <a href="https://www.linkedin.com/in/jenny-gramdal-6b904420a">Linkedin</a> •
@@ -14,4 +14,4 @@ Welcome to my page! I am a 🧑🏻‍💻 Front-End Developer located in Norway
 
 ## Things I code with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,prettier)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,)](https://skillicons.dev)
