@@ -13,4 +13,4 @@
 
 ## Things I code with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,babel,bootstrap,figma,github,jest,netlify,ps,postman,stackoverflow,vscode,webpack,wordpress,xd)](https://skillicons.dev)
