@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/jenny-gramdal-6b904420a">Linkedin</a> •
 <a href="https://twitter.com/jennyjen_gra">Twitter</a> •
 <a href="https://discord.com/users/Jen✿#1303">Discord</a> •
-<a href="https://www.instagram.com/__jenny.jen___/">Instagram</a> •
-<a href="weixin://dl/chat?jennygra">Wechat</a>
+<a href="https://www.instagram.com/__jenny.jen___/">Instagram</a>
 
 - 🔭 I’m currently working on my portfolio and looking for new adventure
 - 🌱 I’m currently learning Angular and Sanity
