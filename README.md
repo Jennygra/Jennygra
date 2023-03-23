@@ -8,7 +8,7 @@
 <a href="https://discord.com/users/Jen✿#1303">Discord</a> •
 <a href="https://www.instagram.com/__jenny.jen___/">Instagram</a>
 
-- 🔭 I’m currently working on my portfolio and looking for new adventure
+- 🔭 I’m currently looking for new adventure
 - 🌱 I’m currently learning Angular and Sanity
 - ⚡ Fun fact: 4-5am is when I start my day and I eat dinner for breakfast
 
