@@ -1,6 +1,6 @@
 # Hello world, I'm Jenny 👋
 
-🧑🏻‍💻 A Front-End Developer located in Norway 🇳🇴 Well organised person • Problem solver • High attention to details ⛰️ Love outdoor activities 📺 TV series 👾 Moba games 🧳 Travel 📷 Photography 😋 A foodie 🐈 Cat lover 🎉 celebrate small milestones 🍷 Wine lover 💃🏻 Dancing and singing when no one's watching
+🧑🏻‍💻 A Front-End Developer located in Norway. Well organised person • Problem solver • High attention to details ⛰️ Love outdoor activities 📺 TV series 👾 Moba games 🧳 Travel 📷 Photography 😋 A foodie 🐈 Cat lover 🎉 celebrate small milestones 🍷 Wine lover 💃🏻 Dancing and singing when no one's watching
 
 <a href="https://comforting-parfait-fe7cbf.netlify.app/index.html">Portfolio</a> •
 <a href="https://www.linkedin.com/in/jenny-gramdal-6b904420a">Linkedin</a> •
